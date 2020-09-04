@@ -1,0 +1,13 @@
+/* Testing the linking */
+*{
+    color:red;
+}
+/* Setting the default display of the list items to none[not to show in the page on load] */
+ #drop_down{
+    
+    display: none;   
+} 
+/* Displaying the list item on hover */
+#hoverable:hover ul{
+    display: block;
+}
