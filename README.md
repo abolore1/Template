@@ -1,1 +1,1 @@
-# Template...............This is just an Homepage tempalte created using html/css
+# Template...............This is just an Homepage template created using html/css
